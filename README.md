@@ -1,0 +1,3 @@
+Studi Kasus: PT Maju Bersama (Prediksi Keterlambatan Pembayaran / Late Payment)
+Dalam materi dijelaskan bahwa perusahaan fiktif PT Maju Bersama mengalami kenaikan sales revenue tetapi net profit dan operating cash flow menurun, salah satunya karena peningkatan piutang macet (late payment).
+Saya membuat model Machine Learning menggunakan Python (pandas dan scikit-learn) untuk memprediksi apakah suatu transaksi/invoice berpotensi mengalami keterlambatan pembayaran (late payment > 30 hari) berdasarkan riwayat pelanggan, metode pembayaran, dan besaran diskon, serta menghindari data leakage seperti yang ditekankan oleh pemateri.
